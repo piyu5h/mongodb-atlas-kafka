@@ -5,13 +5,13 @@ This repository provide example to implement Custom Json formatter for Mongo Kaf
 
 This Custom implementation will dump json in same format as 
 provided by
+ https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-source.html </br>
+for  JSON  Output.
 
- https://docs.confluent.io/cloud/current/connectors/cc-mongo-db-source.html
-for <b> JSON  </b> Output.
 ------------------
 
 
-This jar can be used along with Mongo Kafka Source Connector.
+This jar will be used along with Mongo Kafka Source Connector.
 
   https://github.com/mongodb/mongo-kafka 
 
